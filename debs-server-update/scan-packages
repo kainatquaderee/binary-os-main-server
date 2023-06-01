@@ -1,2 +1,2 @@
 #!/bin/bash
-dpkg-scanpackages debian /dev/null | gzip -9c > debian/Packages.gz
+dpkg-scanpackages nimbus /dev/null | gzip -9c > nimbus/Packages.gz
