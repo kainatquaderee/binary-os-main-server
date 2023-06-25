@@ -1,0 +1,9 @@
+Source: binary-os-core
+Priority: optional
+Maintainer: Kainat Quaderee <kainatquaderee@gmail.com>
+Version: 12.0.0
+Homepage: http://binaryos.github.io
+Package: binary-os-core
+Architecture: amd64
+Depends: binary-kde-settings, binary-nim-plymouth-theme,binary-desktop
+Description:An metapackage for binary os that installes all requared files for binary os

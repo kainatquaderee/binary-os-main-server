@@ -1,0 +1,18 @@
+[Desktop Entry]
+Comment=Binary dark theme for kde plasma
+Encoding=UTF-8
+Keywords=Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;
+Name=Binary-dark
+Type=Service
+X-KDE-ParentApp=
+X-KDE-PluginInfo-Author=i01binary(kainat)
+X-KDE-PluginInfo-Category=
+X-KDE-PluginInfo-Email=
+X-KDE-PluginInfo-License=GPL3.0
+X-KDE-PluginInfo-Name=com.binary-dark.gg
+X-KDE-PluginInfo-Version=0.1
+X-KDE-PluginInfo-Website=
+X-KDE-ServiceTypes=Plasma/LookAndFeel
+X-KDE-fallbackPackage=org.kde.breeze.desktop
+X-KPackage-Dependencies=
+X-Plasma-MainScript=defaults

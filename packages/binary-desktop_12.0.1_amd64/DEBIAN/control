@@ -1,0 +1,8 @@
+Package: binary-desktop
+Priority: optional
+Maintainer: Kainat Quaderee <kainatquaderee@gmail.com>
+Version:12.0.1
+Homepage: http://binaryos.github.io
+Architecture: amd64
+Depends: task-kde-desktop, steam, obs-studio, kdenlive, gvfs, gstreamer1.0-libav:i386, gstreamer1.0-plugins-bad:i386, gstreamer1.0-plugins-ugly, gstreamer1.0-tools:i386, opus-tools:i386, gstreamer1.0-alsa, gamemode, gamescope, timidity, lutris, scummvm, dosbox, ffmpeg, mingw-w64, flvmeta, smpeg-plaympeg, lame, mjpegtools, x265, x264, mpv, mpg123, libxvidcore4, fluidsynth, lutris, xournalpp, wget, git, flatpak, gnome-disk-utility, synaptic, mangohud, goverlay, vlc, krfb, krdc, binary-os-core, inkscape, gimp, elisa, stacer, timeshift, baobab, fizmo-sdl2, cups, libsdl2-2.0-0, libsdl2-dev, libsdl2-gfx-1.0-0, libsdl2-gfx-dev, libsdl2-image-2.0-0, libsdl2-mixer-2.0-0, libsdl2-net-2.0-0, libvulkan-dev, vulkan-tools, vulkan-validationlayers, vulkan-validationlayers-dev, kio-gdrive, antimicro
+Description: desktop of bianry os with all preinstalled softwares

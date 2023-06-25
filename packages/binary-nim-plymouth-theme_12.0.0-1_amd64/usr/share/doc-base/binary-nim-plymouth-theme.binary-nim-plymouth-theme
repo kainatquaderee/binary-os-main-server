@@ -1,0 +1,20 @@
+Document: binary-nim-plymouth-theme
+Title: Debian binary-nim-plymouth-theme Manual
+Author: <insert document author here>
+Abstract: This manual describes what binary-nim-plymouth-theme is
+ and how it can be used to
+ manage online manuals on Debian systems.
+Section: unknown
+
+Format: debiandoc-sgml
+Files: /usr/share/doc/binary-nim-plymouth-theme/binary-nim-plymouth-theme.sgml.gz
+
+Format: postscript
+Files: /usr/share/doc/binary-nim-plymouth-theme/binary-nim-plymouth-theme.ps.gz
+
+Format: text
+Files: /usr/share/doc/binary-nim-plymouth-theme/binary-nim-plymouth-theme.text.gz
+
+Format: HTML
+Index: /usr/share/doc/binary-nim-plymouth-theme/html/index.html
+Files: /usr/share/doc/binary-nim-plymouth-theme/html/*.html

@@ -1,0 +1,8 @@
+Priority: standard
+Maintainer: Kainat Quaderee <kainatquaderee@gmail.com>
+Version:12.0.0
+Homepage: <insert the upstream URL, if relevant>
+Package: Binary-kde-settings
+Architecture: amd64
+Depends:
+Description: binary os settings for kde plasma

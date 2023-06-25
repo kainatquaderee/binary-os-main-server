@@ -1,0 +1,21 @@
+Package: plymouth-theme-ubuntu-logo
+Source: plymouth
+Version: 0.9.5+git20211018-1ubuntu3
+Architecture: amd64
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Installed-Size: 189
+Depends: plymouth (= 0.9.5+git20211018-1ubuntu3), plymouth-label (= 0.9.5+git20211018-1ubuntu3)
+Provides: plymouth-theme
+Section: misc
+Priority: optional
+Homepage: http://www.freedesktop.org/wiki/Software/Plymouth
+Description: boot animation, logger and I/O multiplexer - ubuntu theme
+ Plymouth provides a boot-time I/O multiplexing framework - the most obvious
+ use for which is to provide an attractive graphical animation in place of
+ the text messages that normally get shown during boot. (The messages are
+ instead redirected to a logfile for later viewing.) However, in event-driven
+ boot systems Plymouth can also usefully handle user interaction such as
+ password prompts for encrypted file systems.
+ .
+ This package contains the default ubuntu-logo theme.
+Original-Maintainer: Laurent Bigonville <bigon@debian.org>

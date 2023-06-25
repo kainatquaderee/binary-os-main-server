@@ -1,0 +1,12 @@
+
+Package: nvidia-driver-binary-settings
+Name: Nvidia Driver Binary Settings
+Description: a metapackage for nvidia driver full install
+Author: Kainat Quaderee <kainatquaderee@gmail.com>
+Version: 12.0.0
+Section: driver
+Maintainer: binary-os-team(kainat Quaderee)
+Depends: linux-headers-amd64, nvidia-cuda-toolkit, libnvidia-fbc1,  libnvidia-encode1, nvidia-vdpau-driver, nvidia-driver, firmware-misc-nonfree, nvidia-settings, libvulkan-dev, nvidia-vulkan-icd, vulkan-tools, vulkan-validationlayers, vulkan-validationlayers-dev
+Architecture: amd64
+Homepage: https://binaryos.github.io
+Website: https://binaryos.github.io

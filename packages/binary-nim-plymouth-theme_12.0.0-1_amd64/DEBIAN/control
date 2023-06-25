@@ -1,0 +1,11 @@
+Package: binary-nim-plymouth-theme
+Version: 12.0.0-1
+Architecture: amd64
+Maintainer: Kainat Quaderee <kainat@unknown>
+Installed-Size: 12
+Depands: plymouth, plymouth-label
+Section: unknown
+Priority: optional
+Homepage: <insert the upstream URL, if relevant>
+Description: <insert up to 60 chars description>
+ <insert long description, indented with spaces>

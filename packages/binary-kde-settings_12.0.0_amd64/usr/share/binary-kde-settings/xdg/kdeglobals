@@ -1,0 +1,14 @@
+[General]
+ColorScheme=BinaryOSDark
+Name=Binary OS Dark
+
+[Icons]
+Theme=breeze-dark
+
+[KDE]
+SingleClick=false
+ChangeCursor=true
+ColorScheme=BinaryOSDark
+DefaultLightLookAndFeel=com.binary.gg
+DefaultDarkLookAndFeel=com.binary-dark.gg
+widgetStyle=binary-dark

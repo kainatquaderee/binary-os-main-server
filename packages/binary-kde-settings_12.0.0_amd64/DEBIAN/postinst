@@ -1,0 +1,9 @@
+#!/bin/bash
+if [ -f "/usr/lib/os-release" ]; then
+  mv /usr/lib/os-release /usr/lib/os-release-debian
+  mv /usr/lib/os-release-binary /usr/lib/os-release
+else
+  mv /usr/lib/os-release-binary /usr/lib/os-release
+fi
+mv /etc/skel/.face-binary /etc/skel/.face
+mv /etc/skel/.face-binary.icon /etc/skel/.face.icon

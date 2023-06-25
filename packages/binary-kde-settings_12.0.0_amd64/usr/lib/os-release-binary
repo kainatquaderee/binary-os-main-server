@@ -1,0 +1,9 @@
+PRETTY_NAME="Binary OS 12 (nimbus)"
+NAME="Binary OS"
+VERSION_ID="12"
+VERSION="12 (nimbus)"
+VERSION_CODENAME=bookworm
+ID=debian
+HOME_URL="https://binaryos.github.io/"
+SUPPORT_URL="https://www.debian.org/support"
+BUG_REPORT_URL="https://bugs.debian.org/"
